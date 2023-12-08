@@ -48,4 +48,4 @@ deploy_key_rsa
 
 # 不排除.gitignore和App.class:
 !.gitignore
-!App.class
+!App2.class
